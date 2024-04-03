@@ -11,3 +11,8 @@ Features:
 - Schedule Workouts: Plan and schedule your workouts in advance to stay organized and committed to your fitness routine.
 - Performance Analytics: Analyze performance metrics and trends to identify areas for improvement and optimize your training regimen.
 - Personalized Recommendations: Receive personalized workout recommendations and tips based on your fitness objectives and preferences.
+
+  Installation:
+  1. Clone the Repository: 
+
+     
