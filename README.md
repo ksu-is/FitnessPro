@@ -26,21 +26,21 @@ Features:
 - Olivia: Write the description and roadmap for Readme
 - Soha: Clone reposiotry to Github team and add the features and installation steps to readme
 
- Week Two:  
- Soha and Olivia: Filling in descriptions and updates for all pieces of code 
- Soha: Creating the code for the tracking and goal journal and the user homepage 
- Olivia: Creating the workout and recipe page 
+  Week Two:  
+ - Soha and Olivia: Filling in descriptions and updates for all pieces of code 
+-  Soha: Creating the code for the tracking and goal journal and the user homepage 
+ - Olivia: Creating the workout and recipe page 
  
  Week Three: 
- Soha and Olivia: Creating the powerpoint and adding important infromation 
- Olivia: Creating the images of what the app will look like 
- Soha: Creating descriptions to corrrelate with the images 
+ - Soha and Olivia: Creating the powerpoint and adding important infromation 
+ - Olivia: Creating the images of what the app will look like 
+ - Soha: Creating descriptions to corrrelate with the images 
 
- Week Four: 
-  Soha and Olivia: Write up a script for the presentation video 
-  Soha and Olivia: Create teams video and submit it 
-  Olivia: Test Microsoft teams, and practice script 
-  Soha: Test Micrsoft teams, and practice scipt 
+  Week Four: 
+ -  Soha and Olivia: Write up a script for the presentation video 
+ -  Soha and Olivia: Create teams video and submit it 
+ -  Olivia: Test Microsoft teams, and practice script 
+-   Soha: Test Micrsoft teams, and practice scipt 
   
 
 
