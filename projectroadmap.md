@@ -1,6 +1,6 @@
 Week One:
 - [x]  Create team on Github and create repository with readme
-- [x] Find code repostroies on the web or the Ksu group that are simlair to our project
+- [x] Find code repostroies on the web or the Ksu group that are simliar to our project
 - [x] Write the description and roadmap for Readme
 - [ ]  Clone reposiotry to Github team and add the features and installation steps to readme
       
