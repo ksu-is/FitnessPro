@@ -4,7 +4,7 @@ FitnessPro is a personal fitness app that allows users to have their personal fi
 Link to project: 
 
  Installation:
-  1. Clone the Repository: 
+  1. Clone the Repository: Clone or download the repository from [GitHub](https://github.com/ksu-is/FitnessPro)
 
 Features:
 - Track Workouts: Log your daily workouts including exercises performed, duration, sets, reps, and intensity levels.
