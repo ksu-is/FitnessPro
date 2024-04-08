@@ -1,5 +1,5 @@
 # FitnessPro
-FitnessPro is a personal fitness app that allows users to have their personal fitness journey all tracked on one app. This app will provide you not only with workouts and good dietary reciepes, but also a way to track your progress and help achieve the goals you set for your self 
+FitnessPro is a personal fitness app that allows users to have their personal fitness journey all tracked on one app. This app will provide you not only with workouts and good dietary recipes, but also a way to track your progress and help achieve the goals you set for yourself 
 
 Link to project: 
 
@@ -18,7 +18,7 @@ Features:
 - Personalized Recommendations: Receive personalized workout recommendations and tips based on your fitness objectives and preferences.
 
   App setup:
-  - Once the user installs the app they will be prompted to create a account and but in some general health information. The App will then take the user to a homepage where there will be links to each diffrent feature. Once a user sets up a specfic regimen or writes in their goals this will all be saved under there personal profile, and they can go on their and change or add things at any time. 
+  - Once the user installs the app they will be prompted to create an account and put in some general health information. The App will then take the user to a homepage where there will be links to each different feature. Once a user sets up a specific regimen or writes in their goals this will all be saved under their personal profile, and they can go on there and change or add things at any time. 
 
  
 
