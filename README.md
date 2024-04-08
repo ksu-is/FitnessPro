@@ -20,7 +20,6 @@ Features:
   App setup:
   - Once the user installs the app they will be prompted to create an account and put in some general health information. The App will then take the user to a homepage where there will be links to each different feature. Once a user sets up a specific regimen or writes in their goals this will all be saved under their personal profile, and they can go on there and change or add things at any time. 
 
-Soha Nathani
-Olivia
+
 
      
