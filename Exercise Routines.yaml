@@ -1,5 +1,5 @@
 Stetching:
-- "^Lunge with spiral twist"
+- "*Lunge with spiral twist"
 - "*Foward fold"
 - "**Piriformis"
 - "**Half split"
@@ -9,9 +9,9 @@ Stetching:
 - "*Reclined spinal twist"
 Yoga:
 - "*Chair"
-- "^Crescent Lunge"
+- "*Crescent Lunge"
 - "**Half moon"
-- "^Warrior two"
+- "**Warrior two"
 - "*Eagle"
 - "**Standing Foot to head"
 - "*Bird of Paradise"
@@ -19,28 +19,28 @@ Yoga:
 Abs for Women:
 - "*Glute bridge march"
 - "**Mountain climbers"
-- "^Plank with knee tap"
+- "**Plank with knee tap"
 - "**Shoulder tap and jack"
 - "*Leg lower"
 - "=Dead Bug"
-- "^V-up"
+- "*V-up"
 - "**Hollow body hold"
 Abs for men:
 - "*Plank hold"
 - "**Half kneeling kettlebell windmill"
-- "^Hanging leg raise"
+- "**Hanging leg raise"
 - "=Russian Twist"
 - "**Copenhagan plank"
-- "^Cable crunch"
+- "*Cable crunch"
 - "**Pallof press"
 - "*Ball slams"
 Arms for women:
 - "*Bicep curls"
 - "**Cactus arms"
-- "^Upright row"
+- "*Upright row"
 - "**Lying overhead tricep extension"
 - "*Tricep kickback"
-- "=Curtsey lunge with bicep curl"
+- "**Curtsey lunge with bicep curl"
 - "*Rear delt fly"
 - "**Triceps dip"
 Arms for men:
@@ -50,21 +50,21 @@ Arms for men:
 - "^Hammer curl"
 - "**Overhead tricep extension"
 - "*Lateral Raises"
-- "^Bent over row"
+- "*Bent over row"
 - "**Skullcrusher"
 Legs for women:
-- "Hip circles"
-- "Jump rope"
-- "Skaters"
-- "Walking Lunges"
-- "Donkey kicks"
-- "Broad jump"
-- "Goblet squat"
-- "Squat with heal raise"
+- "*Hip circles"
+- "**Jump rope"
+- "*Skaters"
+- "*Walking Lunges"
+- "**Donkey kicks"
+- "*Broad jump"
+- "**Goblet squat"
+- "=Squat with heal raise"
 Legs for men:
-- "^Barbell back squat"
+- "** Barbell back squat"
 - "*Barbell deadlift"
-- "^Front squats"
+- "*Front squats"
 - "*Kettlebell swing"
 - "=Walking lunge"
 - "*Lateral lunge"
@@ -76,5 +76,4 @@ Legs for men:
 #comments 
 # * = lower diffculty 
 # ** = higher diffculty 
-# ^ = user prefered higher proabilty of getting selected 
 # = =Last exercise 
