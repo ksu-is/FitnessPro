@@ -1,27 +1,20 @@
 
-print('Welcome to your Fitness Guide!')
+print('Welcome to Fitness Pro, exercise guide where you will be asked various questions to help us provide you wil the most comprehensive and personalized workout.')
 
+#General exercises
+Yoga = ['chair','cresent lunge', 'half Moon', 'warrior two', 'eagle', 'standing foot to head', 'bird of paradise', 'extended side angle' ]
+Stretching = ['lunge with spiral twist','foward fold', 'half split', 'figure four', '90/90', 'lunging hip flexor', 'reclined spinal twist' ]
 
-arm_ne = ['arms circle', 'tricep dips', 'push-ups', 'body saw']
-back_ne = ['superman','plank', 'reverse snow angels', 'aquaman' ]
-shoulder_ne = ['plank tap', 'side plank with lateral raise', 'crab walk', 'incline push-up'  ]
-abs_ne = ['mountain climber twist', 'plank up', 'bicycle crunch', 'reverse crunch']
+# Women Exercises
+arm_w = ['biceps curls', 'cactus arms', 'upright row', 'lying overhead tricep extension', 'tricep kickback', 'Curtsey lunge with bicep curl', 'Rear delt fly', 'triceps dip']
+leg_w = ['hip circles', 'jump rope', 'skaters', 'walking lunges', 'donkey kicks', 'broad jumps', 'goblet squat', 'Rear delt fly', 'squat with heal raise']
+abs_w = ['glute bridge march', 'mountain climbers', 'plank with knee tap', 'should tap and jack', 'leg lower', 'dead bug', 'v up', 'hollow body hold']
 
-arm_e = ['biceps curls', 'triceps kickback', 'overhead extension', 'ches press']
-shoulder_e = ['dumbell side raises', 'dumbbell shoulder press', ' dumbell front raise', 'bent over side raises']
-back_e = ['Dumbbell Upright Row', 'Dumbbell Renegade Row', 'Alternating Bent-Over Row', 'Kneeling One Arm Row']
-abs_e = ['swing', 'side bend', 'russian twist', 'wood chop']
+# Men exercises
+arm_m = ['bicep curl', 'incline tricep extension', 'strict press', 'hammer curl', 'overhead tricep extension', 'lateral rasises', 'bent over row', 'skullcrusher']
+leg_m = ['barbell back squat', 'barbell dead lift', 'front squat', 'kettlebell swing', 'walking lunge', 'lateral lunge', 'goblet squat', 'bulgarian split squat' ]
+abs_m = [ 'plank hold', 'half kneeling kettlebell windmill', 'hanging leg raise', 'russian twist', 'copenhagan plank', 'cable crunch', 'pallof press', 'ball slams']
 
-
-leg_ne = 'side lunges' + '\n' + 'curtsy lunges' +  '\n' + 'side leg raises each leg' +  '\n'+ 'bodyweight squats' +  '\n' +  'Bulgarian Split Squats'
-glutes_ne = ['zumo squats', 'glute bridge', 'reverse lunge', 'jumping lunge', 'jump squat' ]
-
-leg_e = [ 'dumbell lunge', 'dumbell side lunge', 'dumbell deadlift', 'dumbell cald raises', 'goblet squat']
-glutes_e = [ 'dumbell Squat to Lateral Leg Lift', 'dumbell sumo squat', 'weighted glute bridge', 'weighted donkey kick']
-
-
-lower_cardio = [ 'high knees', 'side to side shuffle', 'jumping squat,', 'squat knee to elbow']
-upper_cardio = [ 'shadowboxing,', 'mountain climbers', 'jumpink jacks', 'burpees' ]
 
 
 def fitness_guide():
