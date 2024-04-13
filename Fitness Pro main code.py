@@ -2,8 +2,8 @@
 print('Welcome to Fitness Pro, exercise guide where you will be asked various questions to help us provide you wil the most comprehensive and personalized workout.')
 
 #General exercises
-Yoga = ['chair','cresent lunge', 'half Moon', 'warrior two', 'eagle', 'standing foot to head', 'bird of paradise', 'extended side angle' ]
-Stretching = ['lunge with spiral twist','foward fold', 'half split', 'figure four', '90/90', 'lunging hip flexor', 'reclined spinal twist' ]
+yoga_a = ['chair','cresent lunge', 'half Moon', 'warrior two', 'eagle', 'standing foot to head', 'bird of paradise', 'extended side angle' ]
+stretching_a = ['lunge with spiral twist','foward fold', 'half split', 'figure four', '90/90', 'lunging hip flexor', 'reclined spinal twist' ]
 
 # Women Exercises
 arm_w = ['biceps curls', 'cactus arms', 'upright row', 'lying overhead tricep extension', 'tricep kickback', 'Curtsey lunge with bicep curl', 'Rear delt fly', 'triceps dip']
@@ -32,33 +32,24 @@ def fitness_guide():
                 elif area_p.lower() == 'ab' or 'abs':
                     print(abs_w, '10 - 12 times exercise, 4 sets')
                 elif area_p.lower() == 'leg' or 'legs':
-                    print(legs_w, '10 - 15 times each exercise, 4 sets')
+                    print(leg_w, '10 - 15 times each exercise, 4 sets')
+            
+            if gender_body.lower() == 'male':
+                
+                area_p = input('Choose which area: ')
+                if area_p.lower() == 'arm' or 'arms':
+                    print(arm_m, '10 - 12 times each exercise, 4 sets')
+                elif area_p.lower() == 'ab' or 'abs':
+                    print(abs_m, '10 - 12 times exercise, 4 sets')
+                elif area_p.lower() == 'leg' or 'legs':
+                    print(leg_m, '10 - 15 times each exercise, 4 sets')
 
-            elif target_body.lower() == 'lowerbody':
-                area_p = input('Choose which area:')
-                if area_p.lower() == 'leg' or 'legs':
-                    print(leg_e, '12 - 18 times each exercise, 4 sets')
-                elif area_p.lower() == 'glutes':
-                    print(glutes_e, '15 - 18 times each exercise, 4 sets')
         elif equipment.lower() == 'no':
             workout_time += 1
-            target_body = input('Please choose upperbody or lowerbody: ')
-            if target_body.lower() == 'upperbody':
-                area_p = input('Choose which area: ')
-                if area_p.lower() == 'arm'or 'arms':
-                    print(arm_ne, ' 12 - 15 times each exercise, 4 sets')
-                elif area_p.lower() == 'shoulder' or 'shoulders':
-                    print(shoulder_ne, '12 - 15 times each exercise, 4 sets')
-                elif area_p.lower() == 'back':
-                    print(back_ne, ' 12 - 15 times each exercise, 5 sets')
-                elif area_p.lower() == 'abs':
-                    print(abs_ne, ' 13 - 16 times each exercise, 4 sets')
-            elif target_body.lower() == 'lowerbody':
-                area_p = input('Choose which area: ')
-                
-                if area_p.lower() == 'leg' or 'legs':
-                    print(leg_ne +' 15 - 20 times each exercise, 5 sets')
-                    
-                elif area_p.lower() == 'glutes':
-                    print(glutes_ne, ' 15 - 18 times each exercise, 4 sets') 
+            target_body = input('Please choose yoga or stretching: ')
+            if target_body.lower() == 'yoga':
+                    print(yoga_a, ' 12 - 15 times each exercise, 4 sets')
+                elif area_p.lower() == 'stretching':
+                    print(stretching_a, '12 - 15 times each exercise, 4 sets')
+               
 fitness_guide()
