@@ -23,18 +23,16 @@ def fitness_guide():
     while workout_time <2:
         if equipment.lower() == 'yes':
             workout_time += 1
-            target_body = input('Please choose upperbody or lowerbody: ')
-            if target_body.lower() == 'upperbody':
+            gender_body = input('Please choose female or male: ')
+            if gender_body.lower() == 'female':
                 
                 area_p = input('Choose which area: ')
                 if area_p.lower() == 'arm' or 'arms':
-                    print(arm_e, '10 - 12 times each exercise, 4 sets')
-                elif area_p.lower() == 'shoulder' or 'shoulders':
-                    print(shoulder_e, '10 - 12 times exercise, 4 sets')
-                elif area_p.lower() == 'back':
-                    print(back_e, '10 - 15 times each exercise, 4 sets')
-                elif area_p.lower() == 'abs':
-                    print(abs_e, '10 - 12 times each exercise, 4 sets')
+                    print(arm_w, '10 - 12 times each exercise, 4 sets')
+                elif area_p.lower() == 'ab' or 'abs':
+                    print(abs_w, '10 - 12 times exercise, 4 sets')
+                elif area_p.lower() == 'leg' or 'legs':
+                    print(legs_w, '10 - 15 times each exercise, 4 sets')
 
             elif target_body.lower() == 'lowerbody':
                 area_p = input('Choose which area:')
