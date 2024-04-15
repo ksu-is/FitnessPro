@@ -49,7 +49,7 @@ def fitness_guide():
             target_body = input('Please choose yoga or stretching: ')
             if target_body.lower() == 'yoga':
                     print(yoga_a, ' 12 - 15 times each exercise, 4 sets')
-                elif area_p.lower() == 'stretching':
+            elif area_p.lower() == 'stretching':
                     print(stretching_a, '12 - 15 times each exercise, 4 sets')
                
 fitness_guide()
