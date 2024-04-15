@@ -1,0 +1,1 @@
+print('Welcome to Fitness Pro, a nutrition guide where you will be choosing from pre selected meals for breakfast, lunch, dinner,and snacks.')
