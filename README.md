@@ -6,7 +6,7 @@ Link to project:
  Installation:
   1. Clone the Repository: Clone or download the repository from [GitHub](https://github.com/ksu-is/FitnessPro)
   2. Python Installation: Make sure you have Python installed in your system. If not, download and install it from (https://www.python.org/downloads/).
-  3. Setup: 
+  3. Run: Run the code in Visual Studio code and enter information related to the personalized workout you wish to generate.
 
 Features:
 - Track Workouts: Log your daily workouts including exercises performed, duration, sets, reps, and intensity levels.
