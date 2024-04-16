@@ -48,3 +48,5 @@ def fitness_guide():
                     print(yoga_a, ' 12 - 15 times each exercise, 4 sets')
         elif area_p.lower() == 'stretching':
                     print(stretching_a, '12 - 15 times each exercise, 4 sets')
+
+fitness_guide()
