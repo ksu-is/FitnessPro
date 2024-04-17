@@ -54,7 +54,7 @@ def fitness_guide():
                 elif gender_body.lower() == 'male':
                     area_p = input('Choose which area: stretching or bodyweight')
                 if area_p.lower() == 'stretch' or 'stretching':
-                    print(stretching_m +' 15 - 20 times each exercise, 5 sets')
+                    print(stretching_m, '15 - 20 times each exercise, 5 sets')
                 elif area_p.lower() == 'bodyweight':
                     print(Bodyweightexercises_m, ' 15 - 18 times each exercise, 4 sets') 
 fitness_guide()
