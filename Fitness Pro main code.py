@@ -7,12 +7,13 @@ stretching_w = ['lunge with spiral twist','foward fold', 'half split', 'figure f
 # No equitment: Men exercises 
 stretching_m = ['Hamstring hinge stretch','overhead reach stretch', 'diagonal reach stretch', 'calf stretch', 'side lunge stretch', 'glute stretch','standing quad stretch', 'chest stretch']
 Bodyweightexercises_m = ['pushup','plank', 'glute bridge', 'burpee', 'close grip pushup', 'pike pushup','bodyweight squat', 'diamond pushup']
-# Women Exercises
+
+# Women Exercises with equitment
 arm_w = ['biceps curls', 'cactus arms', 'upright row', 'lying overhead tricep extension', 'tricep kickback', 'Curtsey lunge with bicep curl', 'Rear delt fly', 'triceps dip']
 leg_w = ['hip circles', 'jump rope', 'skaters', 'walking lunges', 'donkey kicks', 'broad jumps', 'goblet squat', 'Rear delt fly', 'squat with heal raise']
 abs_w = ['glute bridge march', 'mountain climbers', 'plank with knee tap', 'should tap and jack', 'leg lower', 'dead bug', 'v up', 'hollow body hold']
 
-# Men exercises
+# Men exercises with equitment 
 arm_m = ['bicep curl', 'incline tricep extension', 'strict press', 'hammer curl', 'overhead tricep extension', 'lateral rasises', 'bent over row', 'skullcrusher']
 leg_m = ['barbell back squat', 'barbell dead lift', 'front squat', 'kettlebell swing', 'walking lunge', 'lateral lunge', 'goblet squat', 'bulgarian split squat' ]
 abs_m = [ 'plank hold', 'half kneeling kettlebell windmill', 'hanging leg raise', 'russian twist', 'copenhagan plank', 'cable crunch', 'pallof press', 'ball slams']
