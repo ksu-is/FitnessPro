@@ -6,7 +6,7 @@ stretching_w = ['lunge with spiral twist','foward fold', 'half split', 'figure f
 
 # No equitment: Men exercises 
 stretching_m = ['Hamstring hinge stretch','overhead reach stretch', 'diagonal reach stretch', 'calf stretch', 'side lunge stretch', 'glute stretch','standing quad stretch', 'chest stretch']
-Bodyweightexercises_m = ['pushup','plank', 'glute bridge', 'burpee', 'close grip pushup', 'pike pushup','bodyweight squat', 'diamond pushup']
+bodyweightexercises_m = ['pushup','plank', 'glute bridge', 'burpee', 'close grip pushup', 'pike pushup','bodyweight squat', 'diamond pushup']
 
 # Women Exercises with equitment
 arm_w = ['biceps curls', 'cactus arms', 'upright row', 'lying overhead tricep extension', 'tricep kickback', 'Curtsey lunge with bicep curl', 'Rear delt fly', 'triceps dip']
@@ -57,5 +57,5 @@ def fitness_guide():
                 if area_p.lower() == 'stretch' or 'stretching':
                     print(stretching_m, '15 - 20 times each exercise, 5 sets')
                 elif area_p.lower() == 'bodyweight':
-                    print(Bodyweightexercises_m, ' 15 - 18 times each exercise, 4 sets') 
+                    print(bodyweightexercises_m, ' 15 - 18 times each exercise, 4 sets') 
 fitness_guide()
