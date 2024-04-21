@@ -1,5 +1,5 @@
 # FitnessPro
-FitnessPro is a personal fitness app that allows users to have their personal fitness journey all tracked on one app. This app will provide you not only with workouts and good dietary recipes, but also a way to track your progress and help achieve the goals you set for yourself 
+FitnessPro is a personal fitness app that allows users to have their personal fitness journey all tracked on one app. This app will provide you not only with workouts and good dietary recipes but also a way to track your progress and help achieve the goals you set for yourself 
 
 Link to project: https://github.com/ksu-is/FitnessPro
 
