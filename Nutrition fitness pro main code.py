@@ -1,5 +1,3 @@
-print('Welcome to Fitness Pro, a nutrition guide where you will be choosing from pre selected meals for breakfast, lunch, dinner,and snacks.')
-
 def nutrition_facts(recipe, portion_size):
     # Nutrition facts for each recipe
     nutrition_data = {
