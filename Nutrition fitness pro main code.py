@@ -20,3 +20,10 @@ def nutrition_facts(recipe, portion_size):
         Apple & Peanut Butter Toast_S: {"calories": 200, "carbs": 25, "protein": 5, "fat": 10},
         Acai Bowl_S: {"calories": 280, "carbs": 40, "protein": 8, "fat": 12}
     }
+
+# Calculate nutrition facts based on portion size
+    facts = nutrition_data[recipe]
+    for key in facts:
+        facts[key] *= portion_size
+    
+    return facts
