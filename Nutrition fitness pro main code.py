@@ -1,7 +1,7 @@
 def nutrition_facts(recipe, portion_size):
     # Nutrition facts for each recipe
-    nutrition_data = {
-        Veggie and Cheese Omelette_B: {"calories": 300, "carbs": 10, "protein": 20, "fat": 15},
+    nutrition_data = 
+        {Veggie and Cheese Omelette_B: {"calories": 300, "carbs": 10, "protein": 20, "fat": 15},
         Protein Pancakes_B: {"calories": 250, "carbs": 30, "protein": 20, "fat": 8},
         Chia Seed Pudding_B: {"calories": 180, "carbs": 20, "protein": 5, "fat": 10},
 
@@ -16,8 +16,7 @@ def nutrition_facts(recipe, portion_size):
 
         Chicken Caesar Salad_S: {"calories": 320, "carbs": 15, "protein": 30, "fat": 18},
         Apple & Peanut Butter Toast_S: {"calories": 200, "carbs": 25, "protein": 5, "fat": 10},
-        Acai Bowl_S: {"calories": 280, "carbs": 40, "protein": 8, "fat": 12}
-    }
+        Acai Bowl_S: {"calories": 280, "carbs": 40, "protein": 8, "fat": 12}}
 
 # Calculate nutrition facts based on portion size
     facts = nutrition_data[recipe]
