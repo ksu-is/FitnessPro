@@ -11,3 +11,7 @@ def nutrition_facts(recipe, portion_size):
         Pesto Spinach Penne_L: {"calories": 350, "carbs": 45, "protein": 12, "fat": 14},
         Veggie Bacon Club Sandwich_L: {"calories": 450, "carbs": 40, "protein": 15, "fat": 25},
         Chicken, Spinach & Feta Wrap_L: {"calories": 380, "carbs": 30, "protein": 25, "fat": 20},
+
+        Sheet-Pan Salmon with Crispy Quinoa_D: {"calories": 420, "carbs": 30, "protein": 35, "fat": 18},
+        Chickpea Pasta with Mushrooms & Kale_D: {"calories": 350, "carbs": 40, "protein": 15, "fat": 12},
+        Chicken Tikka Masala with Rice_D: {"calories": 400, "carbs": 45, "protein": 25, "fat": 16},
