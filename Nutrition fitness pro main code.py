@@ -1,7 +1,7 @@
 def nutrition_facts(recipe, portion_size):
     # Nutrition facts for each recipe
     nutrition_data = {
-        "Veggie and Cheese Omelette": {"calories": 300, "carbs": 10, "protein": 20, "fat": 15},
+         "Veggie and Cheese Omelette": {"calories": 300, "carbs": 10, "protein": 20, "fat": 15},
         "Protein Pancakes": {"calories": 250, "carbs": 30, "protein": 20, "fat": 8},
         "Chia Seed Pudding": {"calories": 180, "carbs": 20, "protein": 5, "fat": 10},
 
