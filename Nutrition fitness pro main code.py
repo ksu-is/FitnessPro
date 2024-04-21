@@ -25,3 +25,49 @@ def nutrition_facts(recipe, portion_size):
         facts[key] *= portion_size
     
     return facts
+
+def choose_recipe():
+    print("Welcome to Fitness Pro!")
+    meal_option = input("Select a meal option - breakfast, lunch, or dinner: ")
+    print("Choose from the following recipes:")
+    
+    recipes = []
+    if meal_option.lower() == "breakfast":
+        recipes = [
+            "Veggie and Cheese Omelette",
+            "Protein Pancakes",
+            "Chia Seed Pudding"
+        ]
+    elif meal_option.lower() == "lunch":
+        recipes = [
+            "Chicken & Tzatziki Wraps",
+            "Pesto Spinach Penne",
+            "Veggie Bacon Club Sandwich",
+            "Chicken, Spinach & Feta Wrap"
+        ]
+    elif meal_option.lower() == "dinner":
+        recipes = [
+            "Sheet-Pan Salmon with Crispy Quinoa",
+            "Chickpea Pasta with Mushrooms & Kale",
+            "Chicken Tikka Masala with Rice"
+        ]
+    else:
+        print("Invalid meal option. Please choose breakfast, lunch, or dinner.")
+        return
+    
+    index = 1
+    for recipe in recipes:
+        print(f"{index}. {recipe}")
+        index += 1
+    
+    recipe_index = int(input("Enter the number corresponding to your choice: ")) - 1
+    portion_size = int(input("Enter the portion size (in servings): "))
+    
+    selected_recipe = recipes[recipe_index]
+    nutrition_info = nutrition_facts(selected_recipe, portion_size)
+    
+    print("\nNutrition Facts:")
+    for key, value in nutrition_info.items():
+        print(f"{key.capitalize()}: {value}g")
+
+choose_recipe()
