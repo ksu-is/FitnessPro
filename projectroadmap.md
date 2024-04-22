@@ -6,7 +6,7 @@ Week One:
       
 Week Two:
 - [x] Filling in descriptions and updates for all pieces of code
-- [ ] Creating the code for the tracking and goal journal and the user homepage
+- [x] Create a main code for workout schedule
 - [x] Create a main code for nutrition info and recipe
 - [x] Creating the workout and recipe page
       
