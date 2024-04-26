@@ -12,9 +12,9 @@ Week Two:
       
       
 Week Three:
-- [ ] Creating the powerpoint and adding important infromation
-- [ ] Creating the images of what the app will look like
-- [ ] Creating descriptions to corrrelate with the images
+- [x] Creating the powerpoint and adding important infromation
+- [x] Creating the images of what the app will look like
+- [x] Creating descriptions to corrrelate with the images
       
 Week Four:
 - [ ] Write up a script for the presentation video
