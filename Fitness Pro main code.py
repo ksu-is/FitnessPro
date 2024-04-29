@@ -30,9 +30,9 @@ def fitness_guide():
                 area_p = input('Choose which area: ')
                 if area_p.lower() == 'arm' or 'arms':
                     print(arm_w, '10 - 12 times each exercise, 4 sets')
-                elif area_p.lower() == 'shoulder' or 'shoulders':
+                elif area_p.lower() == 'leg' or 'legs':
                     print(leg_w, '10 - 12 times exercise, 4 sets')
-                elif area_p.lower() == 'back':
+                elif area_p.lower() == 'ab' or 'abs':
                     print(abs_w, '10 - 12 times each exercise, 4 sets')
 
             elif gender_body.lower() == 'male':
